@@ -1,5 +1,8 @@
 # robot-path-planning-a-star
 Interactive robot path planning simulator using the A* algorithm with Python and Pygame.
+## Demo
+
+![Robot Path Planning](demo.png)
 # Robot Path Planning Simulator using A* Algorithm
 
 This project demonstrates robot path planning using the **A* (A-Star) algorithm** in a grid-based environment.
